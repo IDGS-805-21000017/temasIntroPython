@@ -9,3 +9,4 @@ fichero.close()
 file = open("fichero.txt", "r")
 
 print(file.read())
+print(type(file))
